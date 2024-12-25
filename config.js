@@ -1,8 +1,8 @@
 window.MillConfig = {
-  title: 'Mill',
+  title: 'Mill blog of brite',
   github: {
-    owner: 'graffie',
-    repo: 'mill.blog',
+    owner: 'briteming',
+    repo: 'mill',
   },
   theme: 'basic'
 };
